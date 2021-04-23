@@ -12,6 +12,7 @@
     - 3: hard   (about 30 mins)
     - 4: very hard (??????????)
 - The format of initialize a player is: [Player_name] \[Difi: int]
+    - For example: John Difi 2
 
 
 ## Update:
@@ -19,3 +20,11 @@
 - 2021, 4, 20:
     - A dungeon game with flashscreen and save, load, exception handle
     - The game has aloready have a complete procrdure
+
+- 2021, 4, 23:
+    - Append the **Coin System**
+        1. Now, buy the commodity will no more cost the health!
+        2. The price of the commodities will raise with the index of the rooms
+        3. Beat the Monster to earn the coins.
+    - Change the window title
+    - Change the Image of the Splash Window
