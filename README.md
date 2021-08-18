@@ -1,5 +1,6 @@
 # A Little game with GUI
 ##### Depends on the QT creator
+- [Download](https://www.dropbox.com/s/wutklbz251xibkn/DungeonGUI_Individual.exe?dl=0)
 
 ## Description:
 - Enter the name and try to explore the dungeon!
@@ -28,3 +29,5 @@
         3. Beat the Monster to earn the coins.
     - Change the window title
     - Change the Image of the Splash Window
+- 2021, 8, 18
+    - Append [DropBox download](https://www.dropbox.com/s/wutklbz251xibkn/DungeonGUI_Individual.exe?dl=0)
