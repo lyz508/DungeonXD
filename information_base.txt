@@ -1,0 +1,350 @@
+*
+GameCharacter
+set for default GameCharacter
+*
+Object
+set for default object
+*
+Item
+Blade
+Battle axe
+Bec de corbin
+Dagger
+Horseman's pick
+Flail
+Knife
+Longsword
+Rapier
+Shortsword
+Arming sword
+2mm Kolibri
+ALFA Combat
+Armatix iP1
+Astra 600
+AGM-63
+Push dagger
+Gauntlet
+Recurve bow
+Crossbow
+Longbow
+Cannon
+Hammer
+Club
+Mistery Smile
+Biochemical Weapon
+*
+Weapon
+Blade
+Battle axe
+Bec de corbin
+Dagger
+Horseman's pick
+Flail
+Knife
+Longsword
+Rapier
+Shortsword
+Arming sword
+2mm Kolibri
+ALFA Combat
+Armatix iP1
+Astra 600
+AGM-63
+Push dagger
+Gauntlet
+Recurve bow
+Crossbow
+Longbow
+Cannon
+Hammer
+Club
+Mistery Smile
+Biochemical Weapon
+*
+Armor
+Chitin Shield
+Ahzidal Mask
+Dukaan Mask
+Konahrik Mask
+Otar Mask
+Ancient Shrouded Armor
+Ancient Shrouded Boots
+Ancient Shrouded Cowl
+Ancient Shrouded Gloves
+Ahzidal's Armor of Retribution
+Ahzidal's Boots of Waterwalking
+Ahzidal's Gauntlets of Warding
+Ahzidal's Helm of Vision
+Gunbelt of Smoldering Hells
+Gunbelt of Doomed Ancestors
+Titanium Links of Haunted Fires
+Ivory Cord of Broken Fire
+Ghostly Bronze Gunbelt
+Reincarnated Skeletal Cord
+Ebon Skeletal Girdle
+Victor Cord of the Volcano
+Thunderfury Waistguard of Thunders
+Victor Cord of the Daywalker
+General Tullius' Armor
+Guild Master's Armor
+Guild Master's Boots
+Bassinet
+Cervelliere
+Great helm
+Enclosed helmet
+*
+ARTIFACT
+It's shinning with strong light.
+You can barely see its shape.
+It's hardly for anyone to find another item with such big power.
+
+But as you known, there can't be only good thing...
+Watch your step, the God of Jealus has big INTERESTING about you.
+
+Good luck~
+*
+SuperRare
+UNBELIVABLE!
+It's powerful...strong...and hard...
+And may only generated every one hundred year.
+
+You feel lucky to own it.
+*
+Rare
+It's a rare item.
+Usually can be seen in some grand auction.
+Wearing it in the city can draw people's eyes.
+*
+Common
+It's a common item.
+Can be found in any equipment shop.
+But that not mean it's a poor item.
+It's stable, and hard.
+
+You can be free to rely on it.
+*
+Broken
+It's a broken item.
+
+The only wise choice is ----
+throw it out as soon as possible...
+
+Unless you want to use it as a amulat.
+*
+Book
+Calculus (Early Transcendentals) eighth edition
+Physics for Computer Science Student, N Garcia and A Damask
+Book of Wise
+Desire Punk
+The Harry Potter series
+The Lord of the Rings Trilogy
+The Count of Monte Cristo
+A Game of Thrones
+To Kill a Mockingbird
+The Little Prince
+Assassin Of The Eternal
+Man Of Stone
+Wives Of The Forsaken
+Doctors Of Greatness
+Criminals And Rats
+Turtles And Pirates
+Vision Of Freedom
+Loss Of Joy
+Blood In The West
+Awakening My Enemies
+The Girl with the Dragon Tattoo
+The Alchemist
+Don Quixote
+A Tale of Two Cities
+The Lord of the Rings
+The Little Prince
+And Then There Were None
+The Dream of the Red Chamber
+The Hobbit
+She: A History of Adventure
+The Lion, the Witch and the Wardrobe
+The Da Vinci Code
+Think and Grow Rich
+Harry Potter and the Half-Blood Prince 
+The Catcher in the Rye 
+The Alchemist
+*
+Scroll
+Magic Book
+Uncomfortable Sad face
+Smile Dagger
+Recommand think
+The Thinker
+In the deep dark
+Imutilear
+Pola
+Bahamult
+Little Nightmare
+Left for death
+Guihu
+Baidu
+Long time No SEE
+INto yuo
+On the bus
+LOUNTH
+Kihtub
+Github
+Vscode
+Codeblocks
+Sublime Text
+Anaconda
+Intermediate
+Feel Dark Face
+Youtihen
+*
+Magic
+Fire Ball
+Ice Ball
+Powerful Shot
+Kill Danger
+Time limit
+Tou are dead.
+To bee continue
+Lonely in the past
+Illumination
+MoonDrop
+On the Brave Side
+Where are you?
+Confusion Conjuring
+Life Sorcery
+Emotional Ritual
+Soul Conjuring
+Concealment Magic
+Blood Sorcery
+Illusion Conjuring
+Life Magic
+Tempest Bending
+Heaven's Magic
+Death to the enemy
+We stand united
+Bring them to their knees
+Leave them with nothing
+Until eternity
+Chaos and anarchy
+Bring on the pain
+To victory
+Nether Magic
+Mind Bending
+Earth Bending
+Rainbow Ritual
+Eclipse Sorcery
+Shadow Ritual
+Blood Bending
+Sky Ritual
+Mirror Sorcery
+Draining Sorcery
+*
+Default
+None.
+*
+NPC
+Armor Merchent
+Weapon Merchent
+Book Mercent
+Scroll Merchent
+Putrid Scavenger
+Pyro Arcanist
+Venom Healer
+Pyro Berserker
+Elemental Disciple
+Battle Weaver
+Death Lord
+Chaos Agent
+Pyro Archmage
+Toxic Vampire
+*
+Monster
+Goblin
+King of Goblin
+Mummy
+Cross Wounded Wolf
+The Campsite Butcher
+The Tourist Killer
+The Midtown Murderer
+The Door To Door Slayer
+The Symmetric Killer
+The Watcher
+The Chef
+Basher
+Scientist
+Snatcher
+Gravebody
+Brinestrike
+Grievegirl
+Stenchgolem
+Rottingling
+Coffinfoot
+Dreadsnake
+Taintteeth
+The Creepy Troglodyte
+The Fiery Raptor Warthog
+The Onyx Nether Elephant
+The Primeval Skeleton Tiger
+*
+Player
+Harbor Goldenspice
+Mercury Peachbreeze
+Twig Whitegrace
+Dew Tanglenoodles
+Snowflake Citrusflame
+Spark Magicwind
+Firo Wintergust
+Raine Eveningvine
+Persimmon Flutterbead
+Oleander Eveningflower
+Thomas
+Rikka
+Christina
+Mary
+Spellcaster
+Ghostwalker
+Lord
+Hunter
+Ninja
+Sage
+Battlemage
+Sage
+Soulguard
+Mystic Knight
+Marine
+Swashbuckler
+Scout
+Highwayman
+Jester
+Trapsmith
+Bishop
+Mystic
+Ghostwalker
+Arcanist
+Hohohr, God Of Death
+Bueyr, God Of Victory
+Setyx, God Of Misfortune
+Aslo, God Of Hell
+Farmus, God Of Secrecy
+Qathos, God Of Virtues
+Amir, God Of Seasons
+Exione, God Of Marriage
+Noldir, God Of Magic
+Thulotl, God Of Finance
+*
+Room
+roomAAA
+roomBBB
+roomCCC
+roomDDD
+roomFFF
+*
+NPC_script
+Hello,
+Strong Warrior.
+Welcome to the dungeon--a place filled with death, monster...
+...and OPPURTUNITY
+Have fun in it!
+I may sell some items which can give you more power.
+Come to me !
+*
