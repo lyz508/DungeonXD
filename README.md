@@ -2,6 +2,10 @@
 ##### Depends on the QT creator
 - [Download](https://www.dropbox.com/s/wutklbz251xibkn/DungeonGUI_Individual.exe?dl=0)
 
+## Code Structure
+![](src/media/tree_structure.png)
+> tree structure of codes.
+
 ## Description:
 - Enter the name and try to explore the dungeon!
     - Beat the KING OF DUNGEON to win the game
